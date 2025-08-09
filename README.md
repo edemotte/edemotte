@@ -3,7 +3,7 @@
 I am:  
 ✔️ A UI developer  
 ✔️ A fan of React Js. (because it pays my bills) (but also because its fun to play around with)  
-✔️ But mostly, I am a human. I work with my fellow humans and we build things. These things make us proud.
+✔️ But mostly, I am a human. I work with my fellow humans and we build apps which make us proud.
 
 ## 🌐Socials
 
