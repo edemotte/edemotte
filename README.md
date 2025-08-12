@@ -2,7 +2,7 @@
 
 I am:  
 ✔️ A UI developer  
-✔️ A fan of React Js. (because it pays my bills) (but also because its fun to play around with)  
+✔️ A fan of React Js. (because its fun to tinker with)  
 ✔️ But mostly, I am a human. I work with my fellow humans and we build apps which make us proud.
 
 ## 🌐Socials
