@@ -1,9 +1,9 @@
 # 🌞About Me :
 
 I am:  
-✔️ A UI developer  
-✔️ A fan of React Js. (because its fun to tinker with)  
-✔️ But mostly, I am a human. I work with my fellow humans and we build apps which make us proud.
+✔️ a full-stack developer, with expertise in UI.  
+✔️ an advocate of React Js 
+✔️ But mostly, I am human. 
 
 ## 🌐Socials
 
