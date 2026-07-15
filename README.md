@@ -1,9 +1,7 @@
-# 🌞About Me :
+# About Me :
 
 I am:  
-✔️ a full-stack developer, with expertise in UI.  
-✔️ an advocate of React Js 
-✔️ But mostly, I am human. 
+✔️ a full-stack developer
 
 ## 🌐Socials
 
